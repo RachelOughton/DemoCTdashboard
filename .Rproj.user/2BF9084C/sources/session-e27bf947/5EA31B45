@@ -1,0 +1,26 @@
+{
+    "id": "5EA31B45",
+    "path": "~/Documents/GitRepos/DemoCTdashboard/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "2859396540",
+    "contents": "",
+    "dirty": false,
+    "created": 1751139485029.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "114,0",
+        "scrollLine": "104"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1751140176,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1751140176238,
+    "read_only": false,
+    "read_only_alternatives": []
+}
