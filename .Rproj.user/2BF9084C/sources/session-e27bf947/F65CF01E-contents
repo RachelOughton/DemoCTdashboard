@@ -3,6 +3,11 @@ library(litedown)
 require(mice)
 require(tidyverse)
 
+downloadButton <- function(...) {
+  tag <- shiny::downloadButton(...)
+  tag$attribs$download <- NULL
+  tag
+}
 
 navbarPage("Clinical Trials IV: Assignment 1",
            tabPanel("Instructions",
